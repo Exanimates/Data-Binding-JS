@@ -8,4 +8,4 @@ DataBindingJS
 
 Текущая версия
 ------------
-https://exanimates.github.io/DataBindingJS/
+https://exanimates.github.io/Data-Binding-JS/
